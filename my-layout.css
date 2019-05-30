@@ -1,0 +1,38 @@
+.header {
+    background: #1c7430;
+    height: auto;
+    width: 100%;
+}
+
+.online {
+    top: 20px;
+    font-variant: small-caps;
+    text-align: center;
+}
+
+.online .banner h1 {
+    font-family: Impact;
+    font-size: 50px;
+    color: white;
+    letter-spacing: 0.3px;
+    text-shadow: 0 0 2px black;
+    padding-bottom: 0px;
+    border-bottom: 1px dotted gray;
+    margin: 0px;
+}
+
+.online .banner h5 {
+    margin-top: 5px;
+    letter-spacing: 0.5px;
+}
+
+.logo img {
+    width: 300px;
+    margin-left: 150px;
+    margin-bottom: 20px
+}
+
+.card:hover {
+    border-color: red;
+}
+
